@@ -1,6 +1,6 @@
 name: grat_session_storage_manager
 description: to fix error from html import on Android / IOS
-version: 1.0.0
+version: 0.0.1
 homepage: https://github.com/scriabinEtude/grat_session_storage_manager
 
 environment:
